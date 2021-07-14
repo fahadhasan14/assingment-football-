@@ -1,0 +1,19 @@
+body {
+  font-family: "Poppins", sans-s;
+}
+.full-header {
+  background-color: #2d25a0;
+}
+.paragraph-picture {
+  display: flex;
+}
+.head-paragraph {
+  font-size: 64px;
+  width: 485px;
+  height: 230px;
+  color: red;
+}
+.hed-picture img {
+  height: 438px;
+  width: 556.01px;
+}
